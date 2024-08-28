@@ -1,1 +1,2 @@
 # Simon-Game
+This is a popular memory game where players must remember which order the lights were activated and replicate it. Any of the red, blue, yellow or green lights can be lit in any order including the same light being activated multiple times consecutively.

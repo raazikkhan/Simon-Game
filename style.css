@@ -1,0 +1,42 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body {
+    height: 100%;
+    width: 100%;
+    background-color: gainsboro;
+    text-align: center;
+    
+}
+h1 {
+    margin-top: 50px;
+}
+h2 { color: #ADB5BD;}
+.box-container {
+    display: flex;
+    justify-content: center;
+    
+}
+.btn {
+    height: 200px;
+    width: 200px;
+    
+    cursor: pointer;
+    margin: 20px;
+    border-radius: 20px ;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+#red {
+    background-color: #EF476F;
+}
+#green {
+    background-color: #06D6A0;
+}
+#yellow {
+    background-color: #FFD166;
+}
+#blue {
+    background-color: #118AB2;
+}
