@@ -1,4 +1,4 @@
-#Simon Game
+# Simon Game
 
 A fun and interactive Simon Game built using HTML, CSS, and JavaScript. This is a recreation of the classic Simon electronic memory game, where players must repeat a series of colored lights in the correct order as the sequence becomes progressively longer.
 
@@ -40,7 +40,7 @@ How to Play
 	5.	Continue repeating the sequence for as long as you can without making a mistake.
 	6.	If you enter the wrong sequence, the game restarts, and you can try again!
 
-#Screenshots
+# Screenshots
 
 <img width="1470" alt="Screenshot 2024-09-19 at 3 49 57 PM" src="https://github.com/user-attachments/assets/56e8d888-4bf6-426b-859a-0522f86943f6">
 Installation
