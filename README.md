@@ -1,4 +1,4 @@
-# Simon Game
+# Simon Say Game
 
 A fun and interactive Simon Game built using HTML, CSS, and JavaScript. This is a recreation of the classic Simon electronic memory game, where players must repeat a series of colored lights in the correct order as the sequence becomes progressively longer.
 
