@@ -2,6 +2,7 @@
 
 A fun and interactive Simon Game built using HTML, CSS, and JavaScript. This is a recreation of the classic Simon electronic memory game, where players must repeat a series of colored lights in the correct order as the sequence becomes progressively longer.
 
+Demo Link - https://simon-game-ashy-beta.vercel.app/
 Table of Contents
 
 	•	About the Game
